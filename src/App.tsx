@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-        <Home titulo='Olá mundo' texto='lorem impsum '/>
+        <Home titulo='Componente Home' texto='lorem impsum '/>
         <Contador />
         <Tarefa />
         <Login />
